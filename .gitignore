@@ -1,0 +1,22 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Vim temporay files
+*.swo
+*.swp
+
+# Gedit temporary files
+*~
+
+# Executable
+ass2-base

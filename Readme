@@ -1,0 +1,4 @@
+A simple program to act as a base for the RTR shader assignment.
+
+Note: a mix of Camel case and underscores for identifiers is used in
+different files for historical reasons.
